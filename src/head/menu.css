@@ -1,0 +1,21 @@
+ul{
+    list-style: none;
+}
+
+li{
+    float: left;
+    width: 200px;
+    text-align: center; 
+}
+li>a{
+    text-decoration-line: none;
+    display: block;
+    line-height: 90px;
+    font-size: 15px;
+    color: #6a6a6a;
+}
+
+li>a:hover{
+    cursor: pointer;
+    border-bottom: 1px solid red;
+}
