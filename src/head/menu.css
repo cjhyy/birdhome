@@ -17,5 +17,5 @@ li>a{
 
 li>a:hover{
     cursor: pointer;
-    border-bottom: 1px solid red;
+    border-bottom: 3px solid red;
 }

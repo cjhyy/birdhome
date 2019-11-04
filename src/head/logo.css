@@ -1,0 +1,7 @@
+.logo{
+    /* display: inline-block; */
+    float: left;
+    color:red;
+    line-height: 90px;
+    text-align: center;
+}
